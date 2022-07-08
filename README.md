@@ -6,3 +6,4 @@
 * 10:30 cont. research adding maps
 * 11:30 begin sketching out crud
 * 12:10 lunch
+* 1:40 WIP on crud
