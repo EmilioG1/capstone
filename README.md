@@ -8,3 +8,4 @@
 * 12:10 lunch
 * 1:40 WIP on crud
 * 3:00 React Practice
+* 4:00 Re-evaluating component structure
