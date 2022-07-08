@@ -7,3 +7,4 @@
 * 11:30 begin sketching out crud
 * 12:10 lunch
 * 1:40 WIP on crud
+* 3:00 React Practice
