@@ -15,3 +15,4 @@
 * 8:20 schedule out day
 * 10:20 WIP building out app
 * 11:30 WIP on header
+* 12:00 Lunch
