@@ -16,3 +16,6 @@
 * 10:20 WIP building out app
 * 11:30 WIP on header
 * 12:00 Lunch
+* 1:00 WIP on header cont.
+* 3:00 WIP on trail menu
+* 4:00 Finished up career services from yesterday
