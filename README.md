@@ -10,3 +10,6 @@
 * 3:00 React Practice
 * 4:00 Re-evaluating component structure
 * 4:45 Wrapup. will cont. over the weekend
+
+#### Friday, 07.15.22
+* 8:20 schedule out day
