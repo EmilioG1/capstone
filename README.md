@@ -13,3 +13,4 @@
 
 #### Friday, 07.15.22
 * 8:20 schedule out day
+* 10:20 WIP building out app
