@@ -19,3 +19,4 @@
 * 1:00 WIP on header cont.
 * 3:00 WIP on trail menu
 * 4:00 Finished up career services from yesterday
+* 4:50 WIP on crud
