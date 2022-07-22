@@ -27,3 +27,4 @@
 * 10:30 Informational Interview
 * 12:00 lunch break
 * 1:15 Authorization
+* 3:00 WIP on auth.
