@@ -23,3 +23,4 @@
 
 #### Friday, 07.22.22
 * 8:30 Finish delete funtionality
+* 9:40 Spend some time on Career services
