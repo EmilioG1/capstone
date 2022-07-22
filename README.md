@@ -26,3 +26,4 @@
 * 9:40 Spend some time on Career services
 * 10:30 Informational Interview
 * 12:00 lunch break
+* 1:15 Authorization
