@@ -28,3 +28,4 @@
 * 12:00 lunch break
 * 1:15 Authorization
 * 3:00 WIP on auth.
+* 4:30 WIP on auth cont.
