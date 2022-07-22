@@ -24,3 +24,5 @@
 #### Friday, 07.22.22
 * 8:30 Finish delete funtionality
 * 9:40 Spend some time on Career services
+* 10:30 Informational Interview
+* 12:00 lunch break
