@@ -30,3 +30,13 @@
 * 3:00 WIP on auth.
 * 4:30 WIP on auth cont.
 * 5:00 done for day
+
+#### Tuesday, 07.26.22
+* 8:30 Add redux
+* 10:30 WIP on redux
+* 11:30 Finish up redux
+* 12 lunch
+* 1:00 Re-do firestore due to errors
+* 3:00 WIP on firestore
+* 4:00 break
+* 5:30 cont. wip on firebase
