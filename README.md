@@ -51,4 +51,7 @@
 * 2:30 wip building out crud
 * 4:30 finished create and read
 * 5:30 finsihed update and delete
-* 6:00 connecting firestore w/out redux 
+* 6:00 connecting firestore w/out redux
+* 9:30 returned to continue working/ finished adding firestore
+* 10:30 adding css styling
+* 11:40 calling it for the night
