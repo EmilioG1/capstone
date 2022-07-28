@@ -40,3 +40,15 @@
 * 3:00 WIP on firestore
 * 4:00 break
 * 5:30 cont. wip on firebase
+
+#### Wednesday, 07.27.22
+* 8:30 work on firestore bug
+* 10:00 wip firestore
+* 12:00 been trying to refactor reducers
+* 1:00 one last attempt, researching fix
+* 1:30 scrap project and start again
+* 2:00 new project & begin building out crud
+* 2:30 wip building out crud
+* 4:30 finished create and read
+* 5:30 finsihed update and delete
+* 6:00 connecting firestore w/out redux 
