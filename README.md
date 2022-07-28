@@ -54,4 +54,11 @@
 * 6:00 connecting firestore w/out redux
 * 9:30 returned to continue working/ finished adding firestore
 * 10:30 adding css styling
-* 11:40 calling it for the night
+* 12:10 stop working
+
+#### Thursday, 07.28.22
+* 8:30 clean up page
+* 9:30 research search bar
+* 10:00 make readme
+* 10:30 work on capstone gallery
+* 11:00 work on search bar (hopefully before presentations)
